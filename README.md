@@ -23,7 +23,7 @@ Online ayakkabı mağazası olan FLO müşterilerini segmentlere ayırıp bu seg
 Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
 
 | Değişken  | Tanım   |
-|:-----:|:-------:|
+|---|---|
 |   **master_id**  | Eşsiz müşteri numarası |
 |   **order_channel**  | Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, IOS, Desktop, Mobile) |
 |   **last_order_channel**  | En son alışverişin yapıldığı kanal |

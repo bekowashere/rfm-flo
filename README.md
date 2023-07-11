@@ -36,3 +36,20 @@ Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem
 |   **customer_value_total_ever_offline**  | Müşterinin offline alışverişlerinde ödediği toplam ücret  |
 |   **customer_value_total_ever_online**  | Müşterinin online alışverişlerinde ödediği toplam ücret |
 |   **interested_in_categories_12**  | Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi |
+
+## Proje Görevleri
+
+### GÖREV 1: Veriyi Anlama ve Hazırlama
+- **Adım 1:** flo_data_20K.csv verisini okuyunuz. Dataframe'in kopyasını oluşturunuz.
+- **Adım 2:** Veri setinde aşağıdaki incelemeleri yapınız:
+    - **a.** İlk 10 gözlem
+    - **b.** Değişken isimleri
+    - **c.** Betimsel istatistik
+    - **d.** Boş değer
+    - **e.** Değişken tipleri
+- **Adım 3:** Omnichannel müşterilerin hem online'dan hemde offline platformlardan alışveriş yaptığını ifade etmektedir. Her bir müşterinin toplam alışveriş sayısı ve harcaması için yeni değişkenler oluşturunuz.
+- **Adım 4:** Değişken tiplerini inceleyiniz. Tarih ifade eden değişkenlerin tipini date'e çeviriniz.
+- **Adım 5:** Alışveriş kanallarındaki müşteri sayısının, toplam alınan ürün sayısının ve toplam harcamaların dağılımına bakınız.
+- **Adım 6:** En fazla kazancı getiren ilk 10 müşteriyi sıralayınız.
+- **Adım 7:** En fazla siparişi veren ilk 10 müşteriyi sıralayınız.
+- **Adım 8:** Veri ön hazırlık sürecini fonksiyonlaştırınız.

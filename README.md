@@ -57,9 +57,15 @@ Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem
 
 ### GÖREV 2: RFM Metriklerinin Hesaplanması
 
-- **Adım 1:** **Recency, Frequency** ve **Monetary** tanımlarını yapınız.
+- **Adım 1:** **Recency**, **Frequency** ve **Monetary** tanımlarını yapınız.
 - **Adım 2:** Müşteri özelinde Recency, Frequency ve Monetary metriklerini hesaplayınız.
 - **Adım 3:** Hesapladığınız metrikleri rfm isimli bir değişkene atayınız.
 - **Adım 4:** oluşturduğunuz metriklerin isimlerini recency, frequency ve monetary olarak değiştiriniz.
 
 **Dikkat!** recency değerini hesaplamak için analiz tarihini maksimum tarihten 2 gün sonrası seçebilirsiniz.
+
+### GÖREV 3: RF Skorunun Hesaplanması
+
+- **Adım 1:** Recency, Frequency ve Monetary metriklerini **qcut** yardımı ile 1-5 arasında skorlara çeviriniz.
+- **Adım 2:** Bu skorları **recency_score**, **frequency_score** ve **monetary_score** olarak kaydediniz.
+- **Adım 3:** recency_score ve frequency_score'u tek bir değişken olarak ifade ediniz ve **RF_SCORE** olarak kaydediniz.

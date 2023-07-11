@@ -40,6 +40,7 @@ Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem
 ## Proje Görevleri
 
 ### GÖREV 1: Veriyi Anlama ve Hazırlama
+
 - **Adım 1:** flo_data_20K.csv verisini okuyunuz. Dataframe'in kopyasını oluşturunuz.
 - **Adım 2:** Veri setinde aşağıdaki incelemeleri yapınız:
     - **a.** İlk 10 gözlem
@@ -53,3 +54,12 @@ Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem
 - **Adım 6:** En fazla kazancı getiren ilk 10 müşteriyi sıralayınız.
 - **Adım 7:** En fazla siparişi veren ilk 10 müşteriyi sıralayınız.
 - **Adım 8:** Veri ön hazırlık sürecini fonksiyonlaştırınız.
+
+### GÖREV 2: RFM Metriklerinin Hesaplanması
+
+- **Adım 1:** **Recency, Frequency** ve **Monetary** tanımlarını yapınız.
+- **Adım 2:** Müşteri özelinde Recency, Frequency ve Monetary metriklerini hesaplayınız.
+- **Adım 3:** Hesapladığınız metrikleri rfm isimli bir değişkene atayınız.
+- **Adım 4:** oluşturduğunuz metriklerin isimlerini recency, frequency ve monetary olarak değiştiriniz.
+
+**Dikkat!** recency değerini hesaplamak için analiz tarihini maksimum tarihten 2 gün sonrası seçebilirsiniz.

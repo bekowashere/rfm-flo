@@ -1,4 +1,14 @@
-# FLO Müşteri Segmentasyonu
+<div align="center">
+<h1>
+  FLO Müşteri Segmentasyonu
+</h1>
+
+<h4>
+    <img alt="FLO" src="https://github.com/bekowashere/rfm-flo/blob/main/src/flo1.png?raw=true">
+</h4>
+
+<div>
+
 
 ## Kullanılan Teknojiler
 
@@ -8,7 +18,7 @@
 
 Online ayakkabı mağazası olan FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor. Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmelere göre gruplar oluşturulacak.
 
-## <div align="center">Veri Seti Hikayesi</div>
+## Veri Seti Hikayesi
 
 Veri seti FLO'dan son alışverişlerini 2020-2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
 

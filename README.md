@@ -7,7 +7,7 @@
     <img alt="FLO" src="https://github.com/bekowashere/rfm-flo/blob/main/src/flo1.png?raw=true">
 </h4>
 
-<div>
+</div>
 
 
 ## Kullanılan Teknojiler

@@ -10,7 +10,7 @@
 
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <li>
     <li>
       <a href="#kullanılan-teknojiler">Kullanılan Teknojiler</a>
     </li>
@@ -28,7 +28,7 @@
         <li><a href="#görev-5-aksiyon-zamanı">GÖREV 5</a></li>
       </ul>
     </li>
-  </ol>
+  </li>
 </details>
 
 ## Kullanılan Teknojiler

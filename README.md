@@ -6,9 +6,30 @@
 <h4>
     <img alt="FLO" src="https://github.com/bekowashere/rfm-flo/blob/main/src/flo1.png?raw=true">
 </h4>
-
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#kullanılan-teknojiler">Kullanılan Teknojiler</a>
+    </li>
+    <li>
+      <a href="#i̇ş-problemi">İş Problemi</a>
+    </li>
+    <li><a href="#veri-seti-hikayesi">Veri Seti Hikayesi</a></li>
+    <li>
+      <a href="#proje-görevleri">Proje Görevleri</a>
+      <ul>
+        <li><a href="#görev-1-veriyi-anlama-ve-hazırlama">GÖREV 1</a></li>
+        <li><a href="#görev-2-rfm-metriklerinin-hesaplanması">GÖREV 2</a></li>
+        <li><a href="#görev-3-rf-skorunun-hesaplanması">GÖREV 3</a></li>
+        <li><a href="#görev-4-rf-skorunun-segment-olarak-tanımlanması">GÖREV 4</a></li>
+        <li><a href="#görev-5-aksiyon-zamanı">GÖREV 5</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 ## Kullanılan Teknojiler
 

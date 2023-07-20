@@ -8,7 +8,28 @@
 </h4>
 </div>
 
-
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#used-technologies">Used technologies</a>
+    </li>
+    <li>
+      <a href="#business-problem">Business Problem</a>
+    </li>
+    <li><a href="#data-set-story">Data Set Story</a></li>
+    <li>
+      <a href="#project-tasks">Project Tasks</a>
+      <ul>
+        <li><a href="#task-1-data-understanding-and-preparation">TASK 1</a></li>
+        <li><a href="#task-2-calculating-rfm-metrics">TASK 2</a></li>
+        <li><a href="#task-3-calculating-rf-scores">TASK 3</a></li>
+        <li><a href="#task-4-segment-definition-of-rf-scores">TASK 4</a></li>
+        <li><a href="#task-5-time-for-action">TASK 5</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 ## Used technologies
 
